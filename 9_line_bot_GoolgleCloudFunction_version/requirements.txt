@@ -1,0 +1,11 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.12.1+cpu
+line-bot-sdk
+requests
+Pillow
+pybase64
+numpy
+torchvision
+google-resumable-media
+google-cloud-storage
+google-cloud-bigquery
